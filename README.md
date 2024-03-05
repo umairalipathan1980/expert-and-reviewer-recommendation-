@@ -1,0 +1,1 @@
+This code uses a sample dataset of researchers/experts to recommend a suitable researcher for a paper or funding application. The code uses an embedding model and a large language model for this task.
